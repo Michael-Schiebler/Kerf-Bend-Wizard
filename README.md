@@ -1,1 +1,1 @@
-Check  out the beta release at https://thekerfwizard.pythonanywhere.com/ 
+Check  out the beta release at www.kerfbendwizard.com
